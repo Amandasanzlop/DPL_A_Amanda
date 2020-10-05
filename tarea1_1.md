@@ -35,6 +35,8 @@ Crear una tabla:
 
 | NOMBRE  | GITHUB  |
 |---|---|
-| Alanis  | [https://github.com/alaniscrln/dpl_alanis]  |
-| Estanis  | [https://github.com/dawestanis/dpl_B_estanis]  |
-| Francisco | [https://github.com/ciscoDIZ/DPL_A_francisco_a]  |
+| Alanis  | (https://github.com/alaniscrln/dpl_alanis)  |
+| Estanis  | (https://github.com/dawestanis/dpl_B_estanis)  |
+| Francisco | (https://github.com/ciscoDIZ/DPL_A_francisco_a)  |
+
+[Prueba captura](Tarea1_1_imagenes/c1.png)
